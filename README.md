@@ -1,0 +1,1 @@
+**Source** : [Programmation Shell](https://www.youtube.com/playlist?list=PLo53cbpzes8YqW9RsYQPMmadY__V1n9a3) de *Algomius*
